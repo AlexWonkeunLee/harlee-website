@@ -8,6 +8,12 @@ body {
     font-style: italic;
 }
 
+.headerAndNav{
+    display: flex;
+}
+
+
+
 a {
     text-decoration: none;
     color: black;
